@@ -5,8 +5,9 @@ pcl sample program on ROS(Robot Operating System)
 Please prepare rgbd sensor(ex:Kinect, Realsense) and build this package
 ```sh
 $ cd ~/catkin_ws/src
-$ git clone 
-
+$ git clone git@github.com:kogakuin-mobility-system-lab/rslidar.git
+$ cd ..
+$ catkin_make
 ```
 
 
