@@ -3,6 +3,11 @@ pcl sample program on ROS(Robot Operating System)
 
 # usage
 Please prepare rgbd sensor(ex:Kinect, Realsense) and build this package
+```sh
+$ cd ~/catkin_ws/src
+$ git clone 
+
+```
 
 
 ## rslidar to pcl
