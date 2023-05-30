@@ -4,6 +4,14 @@ pcl sample program on ROS(Robot Operating System)
 # usage
 Please prepare rgbd sensor(ex:Kinect, Realsense) and build this package
 
+
+## rslidar to pcl
+Execute following command:
+```sh
+$ rosrun pcl_ros_processing rslidar2pcl
+```
+
+
 ## downsampling
 Execute following command:
 ```sh
